@@ -6,7 +6,7 @@
 * 🌱 Currently learning: Python, Data Structures
 * 🔭 Working on: Health & Wellness Platform
 * 💬 Ask me about: Beginner coding, projects
-* 📫 Reach me: [your LinkedIn]
+* 📫 Reach me: [www.linkedin.com/in/prajakta-sarode-3014b0333]
 
 ---
 
