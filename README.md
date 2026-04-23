@@ -4,7 +4,7 @@
 💻 DSA • MERN • AI/ML
 
 * 🌱 Currently learning: Python, Data Structures
-* 🔭 Working on: Health & Wellness Platform
+* 🔭 Working on: VIBE Gamification
 * 💬 Ask me about: Beginner coding, projects
 * 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/prajakta-sarode-3014b0333)
 
