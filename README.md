@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech
 
-Python • MERN • Git • GitHub
+Python • AI/ML • MERN • Git • GitHub
 
 
 <!--
