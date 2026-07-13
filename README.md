@@ -4,7 +4,7 @@
 💻 DSA • MERN • AI/ML
 
 * 🌱 Currently learning: Python, Data Structures
-* 🔭 Working on: VIBE Gamification
+* 🔭 Working on: FLN Assessment Portal
 * 💬 Ask me about: Beginner coding, projects
 * 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/prajakta-sarode-3014b0333)
 
